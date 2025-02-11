@@ -1,2 +1,7 @@
-# tabela_fs25
-criando tabelas e listas com html e introduçao ao css
+# Subindo o projeto para o GIT
+## Projet Clonado
+
+### 1. Status atual antes de subir
+
+'''
+'''
