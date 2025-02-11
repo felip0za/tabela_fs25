@@ -16,5 +16,17 @@ git add .
 ### 3. verificar o status do adicionar
 
 ```bash
-git add .
+git status
+```
+
+### 4. preparar para subir alteraçoes
+
+```bash
+git commit -m"mensagem"
+```
+
+### 5. preparar para subir alteraçoes
+
+```bash
+git commit -m"mensagem"
 ```
